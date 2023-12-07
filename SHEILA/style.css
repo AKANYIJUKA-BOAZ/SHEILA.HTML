@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: rgb(149, 42, 165);
+    margin-left: 400px;
+}
+.jordan{
+    display: flex;
+    height: 80px;
+    background-color: rgb(77, 77, 112);
+    align-items: center;
+}
+.hm a{
+    color: white;
+    margin: 10px;
+    padding: 10px 10px;
+}
+.k{
+    margin-left: 2px;
+}
+.jordan input{
+margin-left: 400px;
+height: 50px;
+border-radius: 20px;
+
+}
+.m{
+    background-color: rgb(222, 216, 223);
+    display: flex;
+    width: 100%;
+}
+.k, .t, .p{
+    display: block;
+    width: 28%;
+    margin: 5px 17px;
+    padding: 10px 10px;
+    justify-content: center;
+}
+.k img, .p img{
+    padding: 10px 10px;
+}
+.t p h{
+    margin-left: 400px;
+}
+    h3{
+        margin-left: 50px;
+    }
+.display img
+{
+    margin-left: 50px;
+}
+h{
+    justify-content: center;
+    color: red;
+    font-weight: medium;
+}
+
+h2{
+    color: rgb(251, 0, 255);
+    justify-content: center;
+margin-left: 500px;
+}
+#footer{
+    background-color: black;
+    width: 100%;
+display: flex;
+color: white;
+padding: 20px 20px;
+}
+#am, #ak, #an{
+    padding: 0px 10px;
+    cursor: pointer;
+    line-height: 30px;
+}
+#an{
+    margin-left:500px;
+}
+#ak{
+    margin-left: 350px;
+}
+h4{
+    color: rgb(17, 0, 255);
+}
+.down{
+    width: 100%;
+    background-color: rgb(69, 28, 28);
+}
+.down p{
+    color: white;
+}
